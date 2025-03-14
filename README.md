@@ -48,7 +48,7 @@ python main.py --data wine_guide.xlsx
 
 После успешного запуска сервера веб-сайт будет доступен по адресу:
 
-[http://localhost:8000](https://www.example.com)
+[http://localhost:8000/static/index.html](http://localhost:8000/static/index.html)
 
 
 Откройте этот адрес в браузере для просмотра каталога вин.
@@ -57,7 +57,7 @@ python main.py --data wine_guide.xlsx
 
 1. Запустить сервер, как указано выше.
 
-2. Открыть [http://localhost:8000](https://www.example.com) в браузере.
+2. Открыть [http://localhost:8000/static/index.html](http://localhost:8000/static/index.html)) в браузере.
 
 3. Проверить, что на странице отображается список вин с картинками, ценами и акциями.
 
